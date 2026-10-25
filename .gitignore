@@ -1,0 +1,25 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+
+# Editor / OS files
+.vscode/
+.vs/
+*.log
+.DS_Store
+Thumbs.db
